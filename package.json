@@ -1,0 +1,23 @@
+{
+  "name": "@uc-engg/logging-repo",
+  "version": "1.0.0",
+  "description": "In House Logging Repository",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:urbanclap-engg/logging-repo.git"
+  },
+  "keywords": [
+    "npm",
+    "module"
+  ],
+  "author": "Urbanclap Technologies India pvt. ltd.",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^2.4.0",
+    "lodash": "^3.10.0",
+    "moment": "^2.10.2",
+    "uuid": "^3.0.1",
+    "winston-daily-rotate-file": "^3.3.4"
+  }
+}
