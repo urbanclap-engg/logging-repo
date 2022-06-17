@@ -12,7 +12,7 @@ A uniform logging soution to simplify logging adoption across systems by abstrat
     - Params : service or log index name 
 
       ```
-      const Logger = require('@uc/logging-repo').initLogger(LOG_INDEX_NAME);
+      const Logger = require('@uc-engg/logging-repo').initLogger(LOG_INDEX_NAME);
       ```
 
 
